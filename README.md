@@ -1,4 +1,4 @@
-# simple program - Dev C++
+# Simple Program - Dev C++
 
 ## Descriptions
 
